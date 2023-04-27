@@ -87,7 +87,7 @@ Once everything is installed and running it should open in your default browser 
 
 Video walkthrough of application usage: https://www.youtube.com/watch?v=HRonNTkScl0
 
-You can find a deployed version of the app here: 
+You can find a deployed version of the app here: https://baby-know.herokuapp.com/
 
 ## Acknowledgments
 Thank you to Prime Digital Academy who equipped our team with the skills to make this application a reality.
